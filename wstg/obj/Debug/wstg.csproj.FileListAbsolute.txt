@@ -1,0 +1,17 @@
+C:\Users\Tanzeel Amin\documents\visual studio 2012\Projects\wstg\wstg\bin\wstg.dll
+C:\Users\Tanzeel Amin\documents\visual studio 2012\Projects\wstg\wstg\bin\wstg.pdb
+C:\Users\Tanzeel Amin\documents\visual studio 2012\Projects\wstg\wstg\obj\Debug\wstg.csprojResolveAssemblyReference.cache
+C:\Users\Tanzeel Amin\documents\visual studio 2012\Projects\wstg\wstg\obj\Debug\wstg.dll
+C:\Users\Tanzeel Amin\documents\visual studio 2012\Projects\wstg\wstg\obj\Debug\wstg.pdb
+D:\(BUITEM'S)Balochistan univercity of Information Teachnology Engeinering And Managment Science's\projects\Bagh-E-Jannat\wstg\wstg\bin\wstg.dll
+D:\(BUITEM'S)Balochistan univercity of Information Teachnology Engeinering And Managment Science's\projects\Bagh-E-Jannat\wstg\wstg\bin\wstg.pdb
+D:\(BUITEM'S)Balochistan univercity of Information Teachnology Engeinering And Managment Science's\projects\Bagh-E-Jannat\wstg\wstg\obj\Debug\wstg.csprojResolveAssemblyReference.cache
+D:\(BUITEM'S)Balochistan univercity of Information Teachnology Engeinering And Managment Science's\projects\Bagh-E-Jannat\wstg\wstg\obj\Debug\wstg.dll
+D:\(BUITEM'S)Balochistan univercity of Information Teachnology Engeinering And Managment Science's\projects\Bagh-E-Jannat\wstg\wstg\obj\Debug\wstg.pdb
+E:\(BUITEM'S)Balochistan univercity of Information Teachnology Engeinering And Managment Science's\projects\Bagh-E-Jannat\wstg\wstg\bin\wstg.dll.config
+E:\(BUITEM'S)Balochistan univercity of Information Teachnology Engeinering And Managment Science's\projects\Bagh-E-Jannat\wstg\wstg\bin\wstg.dll
+E:\(BUITEM'S)Balochistan univercity of Information Teachnology Engeinering And Managment Science's\projects\Bagh-E-Jannat\wstg\wstg\bin\wstg.pdb
+E:\(BUITEM'S)Balochistan univercity of Information Teachnology Engeinering And Managment Science's\projects\Bagh-E-Jannat\wstg\wstg\obj\Debug\wstg.csprojAssemblyReference.cache
+E:\(BUITEM'S)Balochistan univercity of Information Teachnology Engeinering And Managment Science's\projects\Bagh-E-Jannat\wstg\wstg\obj\Debug\wstg.csproj.CoreCompileInputs.cache
+E:\(BUITEM'S)Balochistan univercity of Information Teachnology Engeinering And Managment Science's\projects\Bagh-E-Jannat\wstg\wstg\obj\Debug\wstg.dll
+E:\(BUITEM'S)Balochistan univercity of Information Teachnology Engeinering And Managment Science's\projects\Bagh-E-Jannat\wstg\wstg\obj\Debug\wstg.pdb
